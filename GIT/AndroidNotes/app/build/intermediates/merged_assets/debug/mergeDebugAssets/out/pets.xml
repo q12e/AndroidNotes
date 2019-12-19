@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pets>
+  <pet>
+    <name>Esther the Wonder Pig</name>
+    <birthday>2012-07-01</birthday>
+    <medicalNotes>-Couch hog
+      -Likes to stay cozy
+      -Naps a lot
+      -Not a morning person
+      -Had previous surgery with anesthesia</medicalNotes>
+  </pet>
+  <pet>
+    <name>Cornelius</name>
+    <birthday>2017-07-03</birthday>
+    <medicalNotes>-Handsomeness
+      -Usually the best dressed at parties
+      -Previous surgery due to consuming object</medicalNotes>
+  </pet>
+  <pet>
+    <name>Birgit</name>
+    <birthday>2014-04-07</birthday>
+    <medicalNotes>-Enjoys pool parties... okay pond parties
+      -Loves apples
+      -Moonbear in the north of Vietnam
+      -Intercepted by police in Dien Bien province from being smuggled</medicalNotes>
+  </pet>
+  <pet>
+    <name>Lightning</name>
+    <birthday>2017-01-01</birthday>
+    <medicalNotes>-From the Schomberg area
+      -Vegetarian
+      -Very social
+      -Makes eco-friendly poop</medicalNotes>
+  </pet>
+  <pet>
+    <name>Przemek</name>
+    <birthday>2019-10-12</birthday>
+    <medicalNotes>
+      Przemek to spoko ziomek
+      Dobrze gra w pilke
+      jest super
+
+    </medicalNotes>
+  </pet>
+</pets>

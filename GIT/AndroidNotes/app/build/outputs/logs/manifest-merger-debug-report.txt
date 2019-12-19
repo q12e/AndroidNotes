@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2a67eca04ff1eb7c3093ec50f2221b3a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a5a4bea1e97ba5c41adf4cb9e37f8283\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\60cdc3fc3e336e619f9523a9190959e9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\faf6b7c58d6357dff56fe2bc7b5a3b08\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\86f71d05dec6c1e3be1d223576260cc9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\04846c218fcd79f5bc7c4e1f641f1e0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\846fb9e988722fa946a24abb5ef9a898\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fc192fcff03fe1231de64258f49cadfe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\63916576a6a427fbe3d76fa45667874f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\94de5d37ae51b591c991ad4c0283fb18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\808cdfea5df6c888b9bb7713de14de7c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\f45793870b55e37922f53e1ca85b1ba2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\bb4c35859ea982df3dd3b7c825b23d25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\13003d327ada172eca3cbe8c2b1151e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c87101305bd2567c8cdd4a80f43053a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e62e55a20550ffce516b84c8b850655f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6d19540ad402decc49b7d37a3630e1dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d1aefe14cbf40711bdbe2ce153c84d12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\607a098e99a0b4d51bab6998ec62ab1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\642c139b05351501ec4d38fe3187ac12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7e15a510311619cba1dd07ae22cbb524\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f2174279d9a2c84e543e0027a4442a1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c42e03972ded8b94285113c89bb7ef25\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\64b97af46321b0eea666c9dcc1e6258b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f71b7e5ebae71d6b56977e7daed53318\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3fc24268916b634b57945d261a176fb1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f625f7c9afc74c88be1b6ec74674be65\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\effa463e8f1cd7cb4d87f9d4e80bfcb9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\762270b208276d942e573a0541cc08e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\f92b59652519aa36d70b29d406855cc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b0ea0ca601870bbc44dcf52056ef31df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2389814547f6ad2c2179d7feb78c4bc3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8d03996959f49a994dfb856193f23349\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\29bfc76088ff2a3ff98cc824b361ab81\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:3:3-46
+		INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:2:11-57
+	android:versionCode
+		INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:4:11-69
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:6:3-79
+	android:name
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:6:20-76
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:7:3-78
+	android:name
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:7:20-75
+application
+ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:9:3-39:17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2a67eca04ff1eb7c3093ec50f2221b3a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2a67eca04ff1eb7c3093ec50f2221b3a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a5a4bea1e97ba5c41adf4cb9e37f8283\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a5a4bea1e97ba5c41adf4cb9e37f8283\AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\faf6b7c58d6357dff56fe2bc7b5a3b08\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\faf6b7c58d6357dff56fe2bc7b5a3b08\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f2174279d9a2c84e543e0027a4442a1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f2174279d9a2c84e543e0027a4442a1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c42e03972ded8b94285113c89bb7ef25\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c42e03972ded8b94285113c89bb7ef25\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f2174279d9a2c84e543e0027a4442a1\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:15:5-31
+	android:label
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:13:5-37
+	tools:ignore
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:17:5-44
+	android:roundIcon
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:14:5-50
+	android:installLocation
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:12:5-43
+	android:icon
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:11:5-39
+	android:allowBackup
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:10:5-32
+	android:theme
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:16:5-36
+activity#com.raywenderlich.android.petmed2.SplashActivity
+ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:20:5-26:16
+	android:name
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:20:15-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:21:7-25:23
+action#android.intent.action.MAIN
+ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:24:9-68
+	android:name
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:24:19-66
+activity#com.raywenderlich.android.petmed2.MainActivity
+ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:29:5-31:42
+	android:excludeFromRecents
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:31:7-40
+	android:noHistory
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:30:7-31
+	android:name
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:29:15-76
+activity#com.raywenderlich.android.petmed2.PetListActivity
+ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:34:5-48
+	android:name
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:34:15-46
+activity#com.raywenderlich.android.petmed2.PetDetailActivity
+ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:37:5-51
+	android:name
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml:37:15-48
+uses-sdk
+INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2a67eca04ff1eb7c3093ec50f2221b3a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2a67eca04ff1eb7c3093ec50f2221b3a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a5a4bea1e97ba5c41adf4cb9e37f8283\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a5a4bea1e97ba5c41adf4cb9e37f8283\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\60cdc3fc3e336e619f9523a9190959e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\60cdc3fc3e336e619f9523a9190959e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\faf6b7c58d6357dff56fe2bc7b5a3b08\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\faf6b7c58d6357dff56fe2bc7b5a3b08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\86f71d05dec6c1e3be1d223576260cc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\86f71d05dec6c1e3be1d223576260cc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\04846c218fcd79f5bc7c4e1f641f1e0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\04846c218fcd79f5bc7c4e1f641f1e0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\846fb9e988722fa946a24abb5ef9a898\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\846fb9e988722fa946a24abb5ef9a898\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fc192fcff03fe1231de64258f49cadfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\fc192fcff03fe1231de64258f49cadfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\63916576a6a427fbe3d76fa45667874f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\63916576a6a427fbe3d76fa45667874f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\94de5d37ae51b591c991ad4c0283fb18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\94de5d37ae51b591c991ad4c0283fb18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\808cdfea5df6c888b9bb7713de14de7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\808cdfea5df6c888b9bb7713de14de7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\f45793870b55e37922f53e1ca85b1ba2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\f45793870b55e37922f53e1ca85b1ba2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\bb4c35859ea982df3dd3b7c825b23d25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\bb4c35859ea982df3dd3b7c825b23d25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\13003d327ada172eca3cbe8c2b1151e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\13003d327ada172eca3cbe8c2b1151e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c87101305bd2567c8cdd4a80f43053a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c87101305bd2567c8cdd4a80f43053a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e62e55a20550ffce516b84c8b850655f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e62e55a20550ffce516b84c8b850655f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6d19540ad402decc49b7d37a3630e1dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6d19540ad402decc49b7d37a3630e1dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d1aefe14cbf40711bdbe2ce153c84d12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d1aefe14cbf40711bdbe2ce153c84d12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\607a098e99a0b4d51bab6998ec62ab1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\607a098e99a0b4d51bab6998ec62ab1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\642c139b05351501ec4d38fe3187ac12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\642c139b05351501ec4d38fe3187ac12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7e15a510311619cba1dd07ae22cbb524\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7e15a510311619cba1dd07ae22cbb524\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f2174279d9a2c84e543e0027a4442a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f2174279d9a2c84e543e0027a4442a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c42e03972ded8b94285113c89bb7ef25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c42e03972ded8b94285113c89bb7ef25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\64b97af46321b0eea666c9dcc1e6258b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\64b97af46321b0eea666c9dcc1e6258b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f71b7e5ebae71d6b56977e7daed53318\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f71b7e5ebae71d6b56977e7daed53318\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3fc24268916b634b57945d261a176fb1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3fc24268916b634b57945d261a176fb1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f625f7c9afc74c88be1b6ec74674be65\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f625f7c9afc74c88be1b6ec74674be65\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\effa463e8f1cd7cb4d87f9d4e80bfcb9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\effa463e8f1cd7cb4d87f9d4e80bfcb9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\762270b208276d942e573a0541cc08e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\762270b208276d942e573a0541cc08e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\f92b59652519aa36d70b29d406855cc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\f92b59652519aa36d70b29d406855cc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b0ea0ca601870bbc44dcf52056ef31df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b0ea0ca601870bbc44dcf52056ef31df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2389814547f6ad2c2179d7feb78c4bc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2389814547f6ad2c2179d7feb78c4bc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8d03996959f49a994dfb856193f23349\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8d03996959f49a994dfb856193f23349\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\29bfc76088ff2a3ff98cc824b361ab81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\29bfc76088ff2a3ff98cc824b361ab81\AndroidManifest.xml:20:5-44
+INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+		ADDED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Pobieranie\PetMed-2.0\PetMed 2.0\petmed-final\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\faf6b7c58d6357dff56fe2bc7b5a3b08\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\faf6b7c58d6357dff56fe2bc7b5a3b08\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\faf6b7c58d6357dff56fe2bc7b5a3b08\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\faf6b7c58d6357dff56fe2bc7b5a3b08\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Patryk\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\faf6b7c58d6357dff56fe2bc7b5a3b08\AndroidManifest.xml:24:13-83
